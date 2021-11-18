@@ -1,5 +1,6 @@
-# springboot-jpa
-study spring boot &amp;  jpa ( make order system)
+# 회원 - 주문 시스템
+스프링부트와 JPA를 이용한 웹애플리케이션 개발
+실제로 어떤식으로 개발되는지 큰 플로우를 경험할 수 있는 소규모 프로젝트
 
 ### 기능목록
 ### 회원 기능
